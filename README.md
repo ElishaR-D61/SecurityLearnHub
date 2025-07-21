@@ -1,2 +1,2 @@
-# SecurityLearnHub
-Resources for Cyber Security
+# Security Learn Hub
+A hub for resources and pathways for upskilling in Cyber Security.
